@@ -1,5 +1,7 @@
 # Git bomb
 
+test
+
 A (nearly) uncloneable repo. Make your own git bombs:
 
 ```python
